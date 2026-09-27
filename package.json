@@ -5,6 +5,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "hf": "node src/hf.js",
     "start": "node web/server.js",
     "dev": "DEV_LOGIN=1 MAIL_TRANSPORT=console node web/server.js",
     "build": "node scripts/build.js",

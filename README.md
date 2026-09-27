@@ -5,9 +5,30 @@ répartition hommes/femmes. Trois façons de s'en servir :
 
 | | Pour qui | Où |
 | --- | --- | --- |
+| **Liste H/F** | le pourcentage hommes/femmes de chaque activité à Paris et en Île-de-France | `npm run hf` |
 | **Site web** | plusieurs personnes : chacune se connecte, branche ses agendas, choisit ses activités et reçoit des alertes | [`web/`](web/), section « Site web » |
 | **Outil en ligne de commande** | usage personnel, sans navigateur | [`src/cli.js`](src/cli.js), `npm run plan` |
 | **Userscript** | badges directement sur rendez-vous.social | [`dist/rdv-paris.user.js`](dist/rdv-paris.user.js) |
+
+## Liste hommes/femmes
+
+```bash
+npm run hf                  # toutes les activités à venir, Paris et Île-de-France, triées par date
+npm run hf -- --dept 75     # seulement Paris (plusieurs : --dept 92,93)
+npm run hf -- --json        # pour vos propres scripts
+```
+
+```
+Date        Heure  CP     Activité                                      ♂ %    ♀ %  Inscrits
+lun. 28/09  19:30  75019  Apéro Jeux de Société                        65 %   35 %  22 H · 12 F
+mer. 30/09  19:30  92130  Soirée Loup-Garou                            67 %   33 %  14 H · 7 F
+dim. 04/10  09:00  77300  Rando Chill                                  43 %   57 %  3 H · 4 F
+```
+
+Une seule requête : pour l'API, `city_id=paris` (« Paris & Banlieue ») couvre les 8 départements d'Île-de-France.
+Le pourcentage porte sur les billets vendus (`tickets_male` / `tickets_female`) : regardez la colonne *Inscrits*
+avant de conclure (100 % avec une seule personne ne dit pas grand-chose). Réponse gardée 5 minutes en cache
+(`--frais` pour l'ignorer).
 
 ## Site web
 
