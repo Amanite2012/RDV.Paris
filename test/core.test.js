@@ -230,3 +230,19 @@ test('eventPath : même slug que le site', () => {
   assert.equal(C.eventPath(1584, 'Balade "Montmartre au féminin"'), '/event/1584-balade-montmartre-au-feminin');
   assert.equal(C.eventPath(1, '!!!'), '/event/1-event');
 });
+
+test('API réelle : le paquet peut varier (tickets_* absents, texte, tarifs mixtes, enveloppe)', () => {
+  const variant = f => { const o = JSON.parse(JSON.stringify(DETAIL)); return f(o) || o; };
+  const g = o => C.extractEventsFromJson(o)[0].gender;
+  const expect = [0, 1, 8, 8];
+  const pick = r => [r.men, r.women, r.menCapacity, r.womenCapacity];
+  assert.deepEqual(pick(g(variant(o => { delete o.tickets_male; delete o.tickets_female; }))), expect);
+  assert.deepEqual(pick(g(variant(o => { o.tickets_female = '1'; o.rates.forEach(r => { r.quantity = String(r.quantity); r.remaining = String(r.remaining); }); }))), expect);
+  assert.deepEqual(pick(g(variant(o => { o.rates.push({ gender_category: 'mixed', quantity: 10, remaining: 10 }, { gender_category: null, quantity: 3 }); }))), expect);
+  assert.deepEqual(pick(g(variant(o => { o.rates.forEach(r => { r.gender_category = r.gender_category.toUpperCase(); }); }))), expect);
+  assert.deepEqual(pick(g(variant(o => ({ data: { event: o } })))), expect);
+  // surréservé : remaining négatif, éventuellement en texte
+  const over = g(variant(o => { delete o.tickets_male; o.rates[0].remaining = '-2'; }));
+  assert.equal(over.men, 10);
+  assert.equal(over.menCapacity, 8);
+});

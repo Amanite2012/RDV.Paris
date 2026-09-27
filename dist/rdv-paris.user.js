@@ -585,7 +585,7 @@
 
   function num(v) {
     if (typeof v === 'number' && isFinite(v)) return v;
-    if (typeof v === 'string' && /^\d+$/.test(v)) return +v;
+    if (typeof v === 'string' && /^\s*-?\d+\s*$/.test(v)) return +v; // remaining < 0 si surréservé
     return null;
   }
 
