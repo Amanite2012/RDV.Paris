@@ -4,3 +4,5 @@ node_modules/
 rdv-paris.config.json
 *.ics
 rapport*.html
+data/
+.env

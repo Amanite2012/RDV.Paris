@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RDV.Paris — planificateur rendez-vous.social
 // @namespace    https://github.com/amanite2012/rdv.paris
-// @version      0.1.0
+// @version      0.2.0
 // @description  Planifie les activités de rendez-vous.social/paris selon votre agenda et affiche la répartition hommes/femmes avant de prendre un billet.
 // @author       RDV.Paris
 // @match        https://rendez-vous.social/*

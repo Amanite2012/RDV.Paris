@@ -1,13 +1,21 @@
 {
   "name": "rdv-paris",
-  "version": "0.1.0",
-  "description": "Userscript : planifier les activités de rendez-vous.social/paris selon son agenda et voir la répartition hommes/femmes avant de réserver.",
+  "version": "0.2.0",
+  "description": "Choisir ses activités rendez-vous.social à Paris selon son agenda, avec la répartition hommes/femmes : site web, outil en ligne de commande et userscript.",
   "private": true,
   "license": "MIT",
   "scripts": {
+    "start": "node web/server.js",
+    "dev": "DEV_LOGIN=1 MAIL_TRANSPORT=console node web/server.js",
     "build": "node scripts/build.js",
     "test": "node --test test/*.test.js",
     "test:e2e": "node test/e2e.js",
     "plan": "node src/cli.js"
+  },
+  "dependencies": {
+    "nodemailer": "^10.0.11"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
