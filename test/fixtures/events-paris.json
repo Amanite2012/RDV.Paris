@@ -1,0 +1,7475 @@
+[
+ {
+  "id": 1485,
+  "title": "Walk x Street Art",
+  "subtitle": "On part à la découverte du street art parisien !",
+  "description": null,
+  "date": "2026-09-27T00:00:00.000Z",
+  "time_start": "11:00:00",
+  "time_end": null,
+  "event_datetime": "2026-09-27T09:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Walk x Street Art ? 🎨**\n\nA: Une balade parisienne qui mélang…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/c4fe4fe9-cc5e-4e32-a7b5-e39a952977ee.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5134,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5135,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5136,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 5137,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5138,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5139,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 875,
+    "name": "Gare Montparnasse",
+    "address": "17 Boulevard de Vaugirard 75015 Paris",
+    "postal_code": "75015",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.841444,
+    "lng": 2.319081
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 5,
+  "tickets_female": 6,
+  "waitlist": {
+   "enabled": true,
+   "open": false,
+   "deadline_at": "2026-09-27T03:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-25T09:00:00.000Z"
+ },
+ {
+  "id": 1561,
+  "title": "Dating en conscience 30-40 ans",
+  "subtitle": "Edition 30-40 ans !",
+  "description": null,
+  "date": "2026-09-27T00:00:00.000Z",
+  "time_start": "15:15:00",
+  "time_end": "18:30:00",
+  "event_datetime": "2026-09-27T13:15:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 1,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi l’atelier “Dating en conscience” ? 💛✨**\n\nA: Une **édition spéci…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/8a01e8af-a59b-4fc3-bf30-499c81c24965.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": null,
+  "age_min": 30,
+  "age_max": 40,
+  "age_enforced": true,
+  "parity_threshold": 3,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5105,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5107,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5106,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 6,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5104,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5108,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5111,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 10,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5109,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5110,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 11,
+    "remaining": 0,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 794,
+    "name": "Loft Lechapelais",
+    "address": "6 Rue Lechapelais 75017 Paris",
+    "postal_code": "75017",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.886048,
+    "lng": 2.325586
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 30,
+    "name": "Développement personnel",
+    "emoji": "🙏🏼",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 15,
+    "name": "Dating",
+    "emoji": "💘",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 20,
+  "tickets_female": 20,
+  "waitlist": {
+   "enabled": true,
+   "open": false,
+   "deadline_at": "2026-09-27T07:15:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-25T13:15:00.000Z"
+ },
+ {
+  "id": 1543,
+  "title": "Les Grandes Olympiades ",
+  "subtitle": "8 jeux, 20 équipes, un champion !",
+  "description": null,
+  "date": "2026-09-27T00:00:00.000Z",
+  "time_start": "17:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-27T15:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-16T09:28:48.187Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "closed",
+  "type": "simple",
+  "category_id": 10,
+  "external_link": null,
+  "dialog": "Q: C’est quoi les **Grandes Olympiades** ? 🏆🔥\n\nA: Le **tournoi multi-jeux le p…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/2ab96854-671e-495e-88e1-44a9f4572dcb.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 3,
+  "age_range": "18-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4958,
+    "name": "Tarif Regular",
+    "price": 16,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4956,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4959,
+    "name": "Tarif Regular",
+    "price": 16,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4957,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4960,
+    "name": "Tarif Late",
+    "price": 22,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4961,
+    "name": "Tarif Late",
+    "price": 22,
+    "gender_category": "female",
+    "quantity": 10,
+    "remaining": 10,
+    "type": "LATE"
+   },
+   {
+    "id": 5247,
+    "name": "Tarif Late",
+    "price": 26,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5246,
+    "name": "Tarif Late",
+    "price": 26,
+    "gender_category": "male",
+    "quantity": 15,
+    "remaining": 15,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 462,
+    "name": "Le Bassin",
+    "address": "107 Rue de la Croix Nivert 75015 Paris",
+    "postal_code": "75015",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 12,
+    "name": "Jeux",
+    "emoji": "🎲",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": false,
+   "deadline_at": "2026-09-27T09:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-25T15:30:00.000Z"
+ },
+ {
+  "id": 1582,
+  "title": "Les Grandes Olympiades ",
+  "subtitle": "8 jeux, 20 équipes, un champion !",
+  "description": null,
+  "date": "2026-09-27T00:00:00.000Z",
+  "time_start": "17:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-27T15:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi les **Grandes Olympiades** ? 🏆🔥\n\nA: Le **tournoi multi-jeux le p…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/2ab96854-671e-495e-88e1-44a9f4572dcb.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 3,
+  "age_range": "18-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5252,
+    "name": "Tarif Late",
+    "price": 22,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5248,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": -6,
+    "type": "EARLY"
+   },
+   {
+    "id": 5249,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5254,
+    "name": "Tarif Late",
+    "price": 26,
+    "gender_category": "male",
+    "quantity": 14,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5251,
+    "name": "Tarif Regular",
+    "price": 16,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5255,
+    "name": "Tarif Late",
+    "price": 26,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 5250,
+    "name": "Tarif Regular",
+    "price": 16,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5253,
+    "name": "Tarif Late",
+    "price": 22,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 462,
+    "name": "Le Bassin",
+    "address": "107 Rue de la Croix Nivert 75015 Paris",
+    "postal_code": "75015",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 1,
+    "name": "Climatisé",
+    "emoji": "❄️",
+    "color": "#ffffff",
+    "is_featured": false
+   },
+   {
+    "id": 12,
+    "name": "Jeux",
+    "emoji": "🎲",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 26,
+  "tickets_female": 14,
+  "waitlist": {
+   "enabled": true,
+   "open": false,
+   "deadline_at": "2026-09-27T09:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-25T15:30:00.000Z"
+ },
+ {
+  "id": 1178,
+  "title": "Apéro Jeux de Société",
+  "subtitle": "Tout compris : 4h de jeu  + food + une boisson !",
+  "description": null,
+  "date": "2026-09-28T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-28T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "A: Envie d’une soirée fun, conviviale et pleine de rires ? 😏🎲\nRejoins-nous pou…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/b3f4f9bf-9483-452c-80f6-8031d7284800.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": null,
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 3,
+  "age_range": "20-60",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 3746,
+    "name": "Tarif Early",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 3747,
+    "name": "Tarif Regular",
+    "price": 28,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 3749,
+    "name": "Tarif Early",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 3745,
+    "name": "Tarif Regular",
+    "price": 28,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 3750,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 3748,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 23,
+    "remaining": 5,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 204,
+    "name": "Jovial",
+    "address": "21 Avenue Jean Jaurès 75019 Paris",
+    "postal_code": "75019",
+    "indication": null,
+    "max_capacity": 50,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 8,
+    "name": "Food incluse",
+    "emoji": "🥙",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 22,
+  "tickets_female": 12,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-28T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-26T17:30:00.000Z"
+ },
+ {
+  "id": 1463,
+  "title": "Aquarelle",
+  "subtitle": "Boisson incluse !",
+  "description": "Rendez-vous à 19h30 à l'hôtel Moxy !",
+  "date": "2026-09-28T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-28T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **Envie de tester l’aquarelle ou de réveiller l’artiste qui sommeille en toi …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/928038c83c9ad000.png",
+  "event_color": null,
+  "question_color": "#ffffff",
+  "answer_color": "#e8e8e8",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": "fds",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4586,
+    "name": "",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4585,
+    "name": "",
+    "price": 26,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4587,
+    "name": "",
+    "price": 26,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4584,
+    "name": "",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 11,
+    "remaining": 0,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 7,
+    "name": "Hôtel Moxy",
+    "address": "34 Rue Saint-Sabin 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 100,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 26,
+    "name": "Atelier créatif",
+    "emoji": "🎨",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 12,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-28T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": true,
+    "quoted_price_cents": 3000
+   },
+   "female": {
+    "count": 1,
+    "purchase_blocked": true,
+    "joinable": true,
+    "quoted_price_cents": 3000
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-26T17:30:00.000Z"
+ },
+ {
+  "id": 1534,
+  "title": "RDV Comedy Club - L'Epreuve du thème",
+  "subtitle": "Nos comédiens seront soumis à un thème !",
+  "description": null,
+  "date": "2026-09-29T00:00:00.000Z",
+  "time_start": "19:00:00",
+  "time_end": null,
+  "event_datetime": "2026-09-29T17:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le RDV Comedy Club – L’Épreuve du Thème ? 😂🎤🔥**\n\nA: Un Comedy…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/d8438fd39a8f9000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 4,
+  "age_range": "20-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": [
+   {
+    "id": "af867523-08a1-4992-a99f-fe79888bb0ee",
+    "label": "Engagement",
+    "choices": [
+     {
+      "label": "Je m'engage à prévoir de l'espèce pour le chapeau des comédiens",
+      "price": null,
+      "quantity": null
+     }
+    ]
+   }
+  ],
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 5.5,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4846,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4850,
+    "name": "Tarif Regular",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 6,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 4848,
+    "name": "Tarif Regular",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4851,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 4849,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4847,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 6,
+    "remaining": 4,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 196,
+    "name": "La Ferme",
+    "address": "5 Rue des Petites Ecuries 75010 Paris",
+    "postal_code": "75010",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 28,
+    "name": "Funny experience",
+    "emoji": "😂",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 2,
+    "name": "Big soirée",
+    "emoji": "🔥",
+    "color": "#ffa200",
+    "is_featured": true
+   }
+  ],
+  "tickets_male": 5,
+  "tickets_female": 5,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-29T11:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-27T17:00:00.000Z"
+ },
+ {
+  "id": 1466,
+  "title": "Crochet Club",
+  "subtitle": "Atelier pour les débutants  animé par Lucie !  | Boisson incluse !",
+  "description": null,
+  "date": "2026-09-29T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-29T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Crochet Club ? 🧶✨**\n\nA: Le rendez-vous le plus cozy et satis…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/7344dcad-665f-4e63-b580-9aa91dc84b0a.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": "18-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": true,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4608,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 4604,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4607,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4606,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 4605,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4609,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 6,
+    "remaining": 2,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 7,
+    "name": "Hôtel Moxy",
+    "address": "34 Rue Saint-Sabin 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 100,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 3,
+  "tickets_female": 8,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-29T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-27T17:30:00.000Z"
+ },
+ {
+  "id": 1631,
+  "title": "Apéro  x  Ping-Pong",
+  "subtitle": "Un mélange d'apéro et de ping-pong au Gossima !",
+  "description": null,
+  "date": "2026-09-29T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-29T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "A: Envie d’une petite soirée **apéro sympa x sport** ? 🏓\nA: Rejoins-nous à l’**…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/13400f43-ae7b-425d-b8cd-78c9b1d13170.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 4,
+  "age_range": "20-40",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "compatibility",
+  "matching_form_id": null,
+  "matching_mode": "compatibility",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5454,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5453,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5458,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5455,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5457,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 20,
+    "remaining": 5,
+    "type": "EARLY"
+   },
+   {
+    "id": 5456,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 18,
+    "remaining": 4,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 201,
+    "name": "Gossima",
+    "address": "4 Rue Victor Gelez 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 20,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 22,
+    "name": "Ping-pong",
+    "emoji": "🏓",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 19,
+  "tickets_female": 15,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-29T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-27T17:30:00.000Z"
+ },
+ {
+  "id": 1470,
+  "title": "Soirée Loup-Garou",
+  "subtitle": "4h00 de jeu + grignotage",
+  "description": null,
+  "date": "2026-09-30T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-30T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi cette **soirée Loup-Garou** ? 🌕🐺🔥\n\nA: Une soirée autour du **my…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/5bc11912-5b61-43f5-a29c-50ad8ff8fb37.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 4,
+  "age_range": "18-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "compatibility",
+  "matching_form_id": null,
+  "matching_mode": "compatibility",
+  "options": [
+   {
+    "id": "3ecfa3e4-67d6-4dbf-bee0-790ea8767e1f",
+    "label": "Engagement ",
+    "choices": [
+     {
+      "label": "Je m'engage à prévoir de l'espèce pour les boissons",
+      "price": null
+     }
+    ]
+   }
+  ],
+  "options_required": true,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4628,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 4629,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4634,
+    "name": "Tarif Late",
+    "price": 27,
+    "gender_category": "male",
+    "quantity": 10,
+    "remaining": 6,
+    "type": "LATE"
+   },
+   {
+    "id": 4632,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 4633,
+    "name": "Tarif Early",
+    "price": 16,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4631,
+    "name": "Tarif Early",
+    "price": 16,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4635,
+    "name": "Tarif Late",
+    "price": 27,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 4630,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 0,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 356,
+    "name": "Hife Paris Issy",
+    "address": "15 Rue Guynemer 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "92",
+  "labels": [
+   {
+    "id": 8,
+    "name": "Food incluse",
+    "emoji": "🥙",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 14,
+  "tickets_female": 7,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-30T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-28T17:30:00.000Z"
+ },
+ {
+  "id": 1548,
+  "title": "Apéro 30-40 ans",
+  "subtitle": "Notre évènement incontournable pour les 30-40 ans !",
+  "description": null,
+  "date": "2026-09-30T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-30T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 3,
+  "external_link": null,
+  "dialog": "A: Envie d’un **apéro élégant et décontracté** pour rencontrer du monde dans une…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/8ae33682f04a8000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 3,
+  "age_range": "25-40",
+  "age_min": 30,
+  "age_max": 40,
+  "age_enforced": true,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5003,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 20,
+    "remaining": 7,
+    "type": "LATE"
+   },
+   {
+    "id": 5002,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5001,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 8,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4999,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 6,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5000,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 25,
+    "remaining": 14,
+    "type": "LATE"
+   },
+   {
+    "id": 4998,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 211,
+    "name": "Talaé",
+    "address": "Passage Puteaux 75008 Paris",
+    "postal_code": "75008",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [],
+  "tickets_male": 25,
+  "tickets_female": 20,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-30T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-28T17:30:00.000Z"
+ },
+ {
+  "id": 1563,
+  "title": "Atelier d'Art-Thérapie",
+  "subtitle": "Mes Limites & Mes Désirs | Boisson incluse !",
+  "description": null,
+  "date": "2026-09-30T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-09-30T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi l’atelier « Mes limites & mes désirs » ? 🫶**\n\nA: Est-ce que tu …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/a43c330b-6efb-49fd-9637-a5b65f99e5fb.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": "20-60",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5118,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": "LATE"
+   },
+   {
+    "id": 5119,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5121,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 5123,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5122,
+    "name": "Tarif Early",
+    "price": 27,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5120,
+    "name": "Tarif Early",
+    "price": 27,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5124,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5125,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 7,
+    "name": "Hôtel Moxy",
+    "address": "34 Rue Saint-Sabin 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 100,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 30,
+    "name": "Développement personnel",
+    "emoji": "🙏🏼",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-09-30T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-28T17:30:00.000Z"
+ },
+ {
+  "id": 1876,
+  "title": "Upgrade Tes Dates - Edition Confiance en soi",
+  "subtitle": "La masterclass qui t'aide à gagner en confiance, comprendre tes blocages et créer des relations plus sereines.",
+  "description": null,
+  "date": "2026-10-02T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": "22:30:00",
+  "event_datetime": "2026-10-02T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi cette **édition Confiance en soi\"** ? 👊🔥\n\nA: Une masterclass pen…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/27454545-3725-4952-8215-d5b2bef000f6.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 80,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6409,
+    "name": "Tarif Early",
+    "price": 18,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 6410,
+    "name": "Tarif Regular",
+    "price": 22,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 6411,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 8,
+    "remaining": 8,
+    "type": "LATE"
+   },
+   {
+    "id": 6412,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 12,
+    "remaining": 12,
+    "type": "LATE"
+   },
+   {
+    "id": 6568,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 211,
+    "name": "Talaé",
+    "address": "Passage Puteaux 75008 Paris",
+    "postal_code": "75008",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 3,
+    "name": "Men only",
+    "emoji": "🧔🏽‍♂️",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-02T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-09-30T17:30:00.000Z"
+ },
+ {
+  "id": 1583,
+  "title": "Atelier Mosaïque",
+  "subtitle": "Repars avec ton dessous de verre ou dessous de plat coloré !",
+  "description": null,
+  "date": "2026-10-03T00:00:00.000Z",
+  "time_start": "14:00:00",
+  "time_end": "17:00:00",
+  "event_datetime": "2026-10-03T12:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-19T11:09:52.176Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi l’atelier mosaïque ? 🎨**\n\nA: Pendant **2h30**, viens mettre les…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/9fa062a7-c56a-40cd-8ecd-8596dd09eb31.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "disabled",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5615,
+    "name": "Tarif Late",
+    "price": 65,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5616,
+    "name": "Tarif Late",
+    "price": 65,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5261,
+    "name": "Tarif Regular",
+    "price": 55,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5258,
+    "name": "Tarif Early",
+    "price": 52,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "EARLY"
+   },
+   {
+    "id": 5260,
+    "name": "Tarif Regular",
+    "price": 55,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 5262,
+    "name": "Tarif Late",
+    "price": 60,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5259,
+    "name": "Tarif Early",
+    "price": 52,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5263,
+    "name": "Tarif Late",
+    "price": 60,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 7,
+    "name": "Hôtel Moxy",
+    "address": "34 Rue Saint-Sabin 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 100,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 26,
+    "name": "Atelier créatif",
+    "emoji": "🎨",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 3,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-03T06:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-01T12:00:00.000Z"
+ },
+ {
+  "id": 1841,
+  "title": "Loup-Garou Murder Party",
+  "subtitle": "Un loup-garou en version amélioré !",
+  "description": null,
+  "date": "2026-10-03T00:00:00.000Z",
+  "time_start": "14:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-03T12:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 11,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi cette Loup-Garou Murder Party ? 🐺🔪**\n\nA: Oublie le simple jeu …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/7d076a38-7822-48a9-97c0-4edba5490af2.png",
+  "event_color": null,
+  "question_color": "#ffb35c",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6242,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 6245,
+    "name": "Tarif Regular",
+    "price": 17,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 6243,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 6244,
+    "name": "Tarif Regular",
+    "price": 17,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 6371,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 9,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 6370,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 7,
+    "remaining": 2,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 356,
+    "name": "Hife Paris Issy",
+    "address": "15 Rue Guynemer 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "92",
+  "labels": [
+   {
+    "id": 14,
+    "name": "JDR",
+    "emoji": "🤖",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 8,
+  "tickets_female": 10,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-03T06:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-01T12:00:00.000Z"
+ },
+ {
+  "id": 1758,
+  "title": "Apéro sportif !",
+  "subtitle": "Après l'effort, le réconfort !",
+  "description": null,
+  "date": "2026-10-03T00:00:00.000Z",
+  "time_start": "18:30:00",
+  "time_end": "21:30:00",
+  "event_datetime": "2026-10-03T16:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-93",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "Heyyy ! 👋 Dis, t'es libre **samedi 3 octobre à 18H30** ? J'ai un plan à te proposer!",
+    "group": 0
+   },
+   {
+    "type": "question",
+    "text": "Salut ! Ça dépend, c'est quoi le plan ? 😄",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "**Un apéro sportif !**",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "On fait une **session de sport** tous ensemble, puis on va **boire des verres** juste après. Tu te dépenses, tu te fais du bien, et tu finis avec un verre à la main 🍹",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "Okaaaay mais concrètement, **ça se passe comment** ?",
+    "group": 1
+   },
+   {
+    "type": "answer",
+    "text": "On se retrouve à la **Maison Rivière, à Pantin**, une salle de **coaching privé**, hyper cosy.",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "On est **15 max**, donc vraiment petit groupe, ambiance chill, pas du tout salle de sport anonyme.",
+    "group": 2
+   },
+   {
+    "type": "question",
+    "text": "Sympa, mais **on va faire quoi** ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Au programme : 30 min de **training** pour se réveiller, 30 min **d'afrozumba** (là c'est danse et bonne humeur), puis 1h de **yoga** pour redescendre en douceur 🧘",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Ah ouais quand même, ça fait 2h de sport 😅 Je suis pas hyper sportif/ve, c'est pour **quel niveau** ?",
+    "group": 3
+   },
+   {
+    "type": "answer",
+    "text": "Zéro stress, **c'est fait pour tout le monde** ! Les coachs sont certifiés et adaptent les exercices, donc tu vas à ton rythme.",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Le but c'est de **bouger et de passer un bon moment**, pas de performer. Et comme on est peu nombreux, personne ne te regarde faire ta chorégraphie de travers 😂",
+    "group": 4
+   },
+   {
+    "type": "question",
+    "text": "Haha ok rassurant. Et ça commence à **quelle heure** ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "On démarre à **18h30 et fin de session vers 20h30**, et hop **on traverse le canal direct pour l'apéro** !",
+    "group": 5
+   },
+   {
+    "type": "question",
+    "text": "Attends, on traverse le canal ?",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Oui ! On va ensuite **dans un bar le long du canal de l'Ourcq à côté de la salle**. Pas de trajet, pas de \"on se retrouve où ?\", on sort de notre session sportive et on y est en quelques minutes à pied 🍷",
+    "group": 6
+   },
+   {
+    "type": "question",
+    "text": "Trop pratique. **Et si on a faim** ?",
+    "group": 6
+   },
+   {
+    "type": "answer",
+    "text": "Ils auront de quoi grignoter !",
+    "group": 6
+   },
+   {
+    "type": "question",
+    "text": "Ça me tente ! Mais je connais personne, **je viendrais seul(e)**…",
+    "group": 6
+   },
+   {
+    "type": "answer",
+    "text": "Parfait, c'est **justement l'idée** ! Beaucoup de gens viennent seuls.",
+    "group": 7
+   },
+   {
+    "type": "answer",
+    "text": "Le sport, c'est **la meilleure façon de briser la glace** : après avoir dansé ensemble sur de l'afrozumba, plus de gêne, on discute tout naturellement à l'apéro 😄",
+    "group": 7
+   },
+   {
+    "type": "question",
+    "text": "Ok j'avoue ça me plaît. Il faut apporter quelque chose ?",
+    "group": 7
+   },
+   {
+    "type": "answer",
+    "text": "Juste une **tenue confortable, une gourde, de quoi te changer, si tu veux!** Le reste, on s'en occupe 💪",
+    "group": 8
+   },
+   {
+    "type": "question",
+    "text": "Trop bien, je réserve ce soir. Merci !",
+    "group": 8
+   },
+   {
+    "type": "answer",
+    "text": "Yesss ! On va passer une super  soirée!!",
+    "group": 8
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/f57cde05-521a-4df2-85c0-382e66bd0e32.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": 20,
+  "age_max": 40,
+  "age_enforced": false,
+  "parity_threshold": 5,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_24h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6554,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 6552,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6553,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 3,
+    "type": "EARLY"
+   },
+   {
+    "id": 6588,
+    "name": "Tarif Late",
+    "price": 16,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 6555,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 6589,
+    "name": "Tarif Late",
+    "price": 16,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 909,
+    "name": "Maison Rivière",
+    "address": "39 Quai de l’Ourcq 93500 Pantin",
+    "postal_code": "93500",
+    "indication": null,
+    "max_capacity": 19,
+    "lat": 48.895753,
+    "lng": 2.409226
+   }
+  ],
+  "zone_department": "93",
+  "labels": [
+   {
+    "id": 18,
+    "name": "Rencontres",
+    "emoji": "🤝",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 39,
+    "name": "Apéritif",
+    "emoji": "🥜​",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-03T10:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-01T16:30:00.000Z"
+ },
+ {
+  "id": 1942,
+  "title": "Rando Chill",
+  "subtitle": "16km | Forêt de Fontainebleau | Niveau👟👟",
+  "description": null,
+  "date": "2026-10-04T00:00:00.000Z",
+  "time_start": "09:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-04T07:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "**Envie de t’aérer en pleine nature** un dimanche ? Viens en **rando chill** avec nous !",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et des chaussures de rando**, un petit **pique-nique** et de **l’eau** (et surtout ta bonne humeur !)",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "Et tu veux dire quoi par chill ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Ça veut dire qu’on marche tranquille, à notre rythme 😌 Environ 16 kilomètres, avec des pauses pour profiter du paysage 🍂",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera à la **Forêt de Fontainebleau** ! Départ Gare de Lyon vers 9h 😊",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼",
+    "group": 6
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/968a64f8-c55e-41a7-9292-05b4e3b04706.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🌲",
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 5,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 70,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6590,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 6592,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6593,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6591,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6595,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6594,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 1,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 218,
+    "name": "Forêt de Fontainebleau - départ Gare de Lyon",
+    "address": "Avenue de la Foret 77300 Fontainebleau",
+    "postal_code": "77300",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "77",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 3,
+  "tickets_female": 4,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-04T01:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-02T07:00:00.000Z"
+ },
+ {
+  "id": 1908,
+  "title": "Apéro Grand Prix F1 du Bahreïn",
+  "subtitle": "Boisson incluse ! Diffusion entre passionnés !",
+  "description": null,
+  "date": "2026-10-04T00:00:00.000Z",
+  "time_start": "14:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-04T12:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 3,
+  "external_link": null,
+  "dialog": "Voici une proposition dans le même style que tes autres événements :\n\nQ: **C’est…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/0d119194-93d5-4b17-b607-abc81dc6ff0e.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6524,
+    "name": "Tarif Early",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "EARLY"
+   },
+   {
+    "id": 6526,
+    "name": "Tarif Regular",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 6,
+    "remaining": 6,
+    "type": null
+   },
+   {
+    "id": 6527,
+    "name": "Tarif Regular",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 6525,
+    "name": "Tarif Early",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6528,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 6529,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 403,
+    "name": "Le Bar Fondamental - L.B.F. - Pigalle",
+    "address": "6 Rue André Antoine 75018 Paris",
+    "postal_code": "75018",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-04T06:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-02T12:30:00.000Z"
+ },
+ {
+  "id": 1599,
+  "title": "Puck'toberfest",
+  "subtitle": "5h de jeu + une bière ou soft !",
+  "description": null,
+  "date": "2026-10-05T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-05T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-26T20:45:23.829Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "# **Puck’toberfest 🍺🥨🎯**\n\nQ: **C’est quoi la Puck’toberfest ? 🍺**\n\nA: On res…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/8d5f4acc-8103-4705-bc74-fb6203ad010c.jpeg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🍺",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5333,
+    "name": "Tarif Early",
+    "price": 18,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5334,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5335,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 4,
+    "type": "EARLY"
+   },
+   {
+    "id": 5332,
+    "name": "Tarif Early",
+    "price": 18,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5338,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5339,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5337,
+    "name": "Tarif Regular",
+    "price": 22,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 7,
+    "type": null
+   },
+   {
+    "id": 5336,
+    "name": "Tarif Regular",
+    "price": 22,
+    "gender_category": "male",
+    "quantity": 10,
+    "remaining": 9,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 190,
+    "name": "Pucks",
+    "address": "34 Rue de Dunkerque 75010 Paris",
+    "postal_code": "75010",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 12,
+    "name": "Jeux",
+    "emoji": "🎲",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 3,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-05T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-03T17:30:00.000Z"
+ },
+ {
+  "id": 1889,
+  "title": "Soirée oenologie",
+  "subtitle": "Dégustation de vin avec accord",
+  "description": null,
+  "date": "2026-10-06T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": "21:00:00",
+  "event_datetime": "2026-10-06T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "gourmet",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 14,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi cette soirée oenologique ? 🍷✨**\n\nA: Une soirée pour **déguster …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/793ba6a8-a314-40ea-b941-e5f9dbdb19a7.webp",
+  "event_color": null,
+  "question_color": "#f9c3d1",
+  "answer_color": "#FFFFFF",
+  "button_color": "#a8002d",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6430,
+    "name": "Tarif Regular",
+    "price": 45,
+    "gender_category": "male",
+    "quantity": 8,
+    "remaining": 8,
+    "type": null
+   },
+   {
+    "id": 6431,
+    "name": "Tarif Regular",
+    "price": 45,
+    "gender_category": "female",
+    "quantity": 8,
+    "remaining": 7,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 939,
+    "name": "Merci Vigneron",
+    "address": "44 Rue des Boulangers 75005 Paris",
+    "postal_code": "75005",
+    "indication": null,
+    "max_capacity": 20,
+    "lat": 48.846449,
+    "lng": 2.352038
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 42,
+    "name": "Vin",
+    "emoji": "🍷​",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-06T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-04T17:30:00.000Z"
+ },
+ {
+  "id": 1672,
+  "title": "Rando Champagne",
+  "subtitle": "Rando dans les vignobles champennois et dégustations 🥂",
+  "description": null,
+  "date": "2026-10-10T00:00:00.000Z",
+  "time_start": "09:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-10T07:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": "A: Là on est sur un autre délire : une rando dans les vignobles champenois avec …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/389449d998cc0000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🥂",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 5,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5644,
+    "name": "Tarif Regular",
+    "price": 29,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5645,
+    "name": "Tarif Early",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5643,
+    "name": "Tarif Regular",
+    "price": 29,
+    "gender_category": "male",
+    "quantity": 7,
+    "remaining": 5,
+    "type": null
+   },
+   {
+    "id": 5646,
+    "name": "Tarif Late",
+    "price": 32,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5647,
+    "name": "Tarif Late",
+    "price": 32,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5642,
+    "name": "Tarif Early",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 309,
+    "name": "Route du champagne - Départ Gare de l'Est",
+    "address": "Nanteuil-sur-marne",
+    "postal_code": "77730",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.978339,
+    "lng": 3.218839
+   }
+  ],
+  "zone_department": "77",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 7,
+  "tickets_female": 10,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-10T01:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-08T07:00:00.000Z"
+ },
+ {
+  "id": 1944,
+  "title": "Rando Sportive",
+  "subtitle": "21km | Vallée de la Mérantaise | Niveau👟👟👟",
+  "description": null,
+  "date": "2026-10-11T00:00:00.000Z",
+  "time_start": "09:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-11T07:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "**Envie de te dépenser en pleine nature** un dimanche ? Viens en **rando sportive** avec nous !",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et de vraies chaussures de rando**, un **pique-nique** et de **l’eau** (et surtout ta bonne humeur !)",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "Et sportive, ça veut dire quoi ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Ça veut dire 21 kilomètres et 500 mètres de dénivelé 💪 Ça grimpe et ça redescend tout du long, c’est une vraie journée de marche",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera dans la **vallée de la Mérantaise** ! Départ Paris Châtelet vers 8h30, RER B jusqu’à **Bures-sur-Yvette** 😊",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Au programme : des **petits sentiers en pleine nature**, des **cours d’eau**, d’**anciens ponts de pierre en forêt** et le **domaine d’Ors** 🌿",
+    "group": 6
+   },
+   {
+    "type": "answer",
+    "text": "C’est une **traversée**, on repart de **Courcelle-sur-Yvette** en fin de journée, même ligne, retour direct 🚆",
+    "group": 7
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼",
+    "group": 8
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/26124bc2a408e000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "⛰️",
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 70,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6606,
+    "name": "Tarif Regular",
+    "price": 14,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": null
+   },
+   {
+    "id": 6604,
+    "name": "Tarif Regular",
+    "price": 14,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 5,
+    "type": null
+   },
+   {
+    "id": 6607,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6605,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6602,
+    "name": "Tarif Early",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6603,
+    "name": "Tarif Early",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 3,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 327,
+    "name": "Fôrets en Vallée de Chevreuse",
+    "address": "Gif-sur-Yvette",
+    "postal_code": "91190",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "91",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-11T01:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-09T07:00:00.000Z"
+ },
+ {
+  "id": 1584,
+  "title": "Balade \"Montmartre au féminin\"",
+  "subtitle": "A la découverte des femmes qui ont façonné la Butte 🌹🎨",
+  "description": null,
+  "date": "2026-10-12T00:00:00.000Z",
+  "time_start": "19:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-12T17:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-19T14:29:42.421Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi « Montmartre au féminin » ? 🌹**\n\nA: Une balade de **2 heures au…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/48dbc52e-f539-43cb-91ff-2708f7aa7176.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "👯‍♀️ ",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "disabled",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5280,
+    "name": "Tarif Late",
+    "price": 28,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 5277,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5276,
+    "name": "Tarif Early",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5278,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": null
+   },
+   {
+    "id": 5279,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 11,
+    "remaining": 10,
+    "type": null
+   },
+   {
+    "id": 5281,
+    "name": "Tarif Late",
+    "price": 28,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 810,
+    "name": "Église Saint-Jean de Montmartre",
+    "address": "19 Rue des Abbesses 75018 Paris",
+    "postal_code": "75018",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.884431,
+    "lng": 2.338022
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-12T11:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-10T17:00:00.000Z"
+ },
+ {
+  "id": 1580,
+  "title": "Beer Social Club 30-40 ans",
+  "subtitle": "4 galopins de bière + assiette de tapas inclus !",
+  "description": null,
+  "date": "2026-10-13T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-13T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-21T12:34:28.972Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 3,
+  "external_link": null,
+  "dialog": "Q: C’est quoi l'apéro **Beer Social Club** ? 🍺🔥\nA: C'est LE rendez-vous parfai…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/06ed04c0-5501-4853-ac18-565f1cdd7746.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": "18-80",
+  "age_min": 30,
+  "age_max": 40,
+  "age_enforced": false,
+  "parity_threshold": 4,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5236,
+    "name": "Tarif Early",
+    "price": 23,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5234,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5239,
+    "name": "",
+    "price": 32,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5235,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 6,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5237,
+    "name": "Tarif Early",
+    "price": 23,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5238,
+    "name": "",
+    "price": 32,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 5233,
+    "name": "Tarif Regular",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5232,
+    "name": "Tarif Late",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 403,
+    "name": "Le Bar Fondamental - L.B.F. - Pigalle",
+    "address": "6 Rue André Antoine 75018 Paris",
+    "postal_code": "75018",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 8,
+    "name": "Food incluse",
+    "emoji": "🥙",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 3,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-13T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-11T17:30:00.000Z"
+ },
+ {
+  "id": 1893,
+  "title": "Soirée biérologie",
+  "subtitle": "Dégustation de bières avec tapas",
+  "description": null,
+  "date": "2026-10-14T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": "21:00:00",
+  "event_datetime": "2026-10-14T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "gourmet",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 14,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi cette dégustation Biérologie ? 🍺✨**\n\nA: Une soirée pour **dégus…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/9dba59b3-fb7d-47c7-9d73-97890efa4d5e.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6460,
+    "name": "Tarif Early",
+    "price": 28,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6461,
+    "name": "Tarif Early",
+    "price": 28,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6462,
+    "name": "Tarif Regular",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 8,
+    "remaining": 8,
+    "type": null
+   },
+   {
+    "id": 6463,
+    "name": "Tarif Regular",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 8,
+    "remaining": 8,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 940,
+    "name": "BrewBerry Bar",
+    "address": "11 Rue du Pot de Fer 75005 Paris",
+    "postal_code": "75005",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.842895,
+    "lng": 2.34853
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 44,
+    "name": "Gourmand",
+    "emoji": "😋​",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 42,
+    "name": "Vin",
+    "emoji": "🍷​",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-14T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-12T17:30:00.000Z"
+ },
+ {
+  "id": 1471,
+  "title": "Shuffle Night : Défis, Jeux & DJ",
+  "subtitle": "Des jeux, des défis, des cadeaux et du son jusqu’au bout de la nuit. 🎁🎶",
+  "description": null,
+  "date": "2026-10-15T00:00:00.000Z",
+  "time_start": "19:00:00",
+  "time_end": "00:00:00",
+  "event_datetime": "2026-10-15T17:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-14T10:00:37.227Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi la SHUFFLE NIGHT ? 🎯🎶**\n\nA: Une soirée où **le jeu rencontre l…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/f1d6ed40-9c20-4854-8c2c-3b383d6b9eb4.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5283,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 10,
+    "remaining": 10,
+    "type": "EARLY"
+   },
+   {
+    "id": 5286,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 29,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5282,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 11,
+    "remaining": 5,
+    "type": "EARLY"
+   },
+   {
+    "id": 5285,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5284,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5287,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 30,
+    "remaining": 13,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 750,
+    "name": "Shuffled Paris — Shuffleboard & Bar à Jeux (Boom Boom Villette)",
+    "address": "30 Avenue Corentin Cariou 75019 Paris",
+    "postal_code": "75019",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.89724,
+    "lng": 2.385575
+   },
+   {
+    "id": 750,
+    "name": "Shuffled Paris — Shuffleboard & Bar à Jeux (Boom Boom Villette)",
+    "address": "30 Avenue Corentin Cariou 75019 Paris",
+    "postal_code": "75019",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.89724,
+    "lng": 2.385575
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 12,
+    "name": "Jeux",
+    "emoji": "🎲",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 35,
+  "tickets_female": 17,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-15T11:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-13T17:00:00.000Z"
+ },
+ {
+  "id": 1945,
+  "title": "Rando Chill",
+  "subtitle": "17km | Forêt de Marly | Niveau👟👟",
+  "description": null,
+  "date": "2026-10-18T00:00:00.000Z",
+  "time_start": "09:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-18T07:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "**Envie de t’aérer en pleine nature** un dimanche ? Viens en **rando chill** avec nous !",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et des chaussures de rando**, un petit **pique-nique** et de **l’eau** (et surtout ta bonne humeur !)",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "Et tu veux dire quoi par chill ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Ça veut dire qu’on marche tranquille, à notre rythme 😌 Environ 17 kilomètres, avec des pauses pour profiter du paysage 🍂",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera à la **Forêt de Marly**, l’ancien domaine de chasse de Louis XIV ! Départ Paris Saint-Lazare vers 9h15 😊",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼A: **Envie de t’aérer en pleine nature** un dimanche ? Viens en **rando chill** avec nous !",
+    "group": 6
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et des chaussures de rando**, un petit **pique-nique** et de **l’eau** (et surtout ta bonne humeur !)",
+    "group": 7
+   },
+   {
+    "type": "question",
+    "text": "Et tu veux dire quoi par chill ?",
+    "group": 8
+   },
+   {
+    "type": "answer",
+    "text": "Ça veut dire qu’on marche tranquille, à notre rythme 😌 Environ 17 kilomètres, avec des pauses pour profiter du paysage 🍂",
+    "group": 9
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 10
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera à la **Forêt de Marly**, l’ancien domaine de chasse de Louis XIV ! Départ Paris Saint-Lazare vers 9h15 😊",
+    "group": 11
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼",
+    "group": 12
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/836aabc3ff0e6000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🦌",
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 70,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6608,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 6609,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 6610,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "EARLY"
+   },
+   {
+    "id": 6611,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 16,
+    "remaining": 16,
+    "type": "LATE"
+   },
+   {
+    "id": 6613,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 17,
+    "remaining": 17,
+    "type": "LATE"
+   },
+   {
+    "id": 6612,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 1,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 948,
+    "name": "Forêt de Marly",
+    "address": "Marly-le-Roi",
+    "postal_code": "78160",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.875287,
+    "lng": 2.092406
+   }
+  ],
+  "zone_department": "78",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-18T01:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-16T07:00:00.000Z"
+ },
+ {
+  "id": 1451,
+  "title": "Yoga x Cocktail Déjeunatoire",
+  "subtitle": "Yoga le matin, tapas à midi : on signe où ? 😂",
+  "description": null,
+  "date": "2026-10-18T00:00:00.000Z",
+  "time_start": "11:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-18T09:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-12T12:56:12.488Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Yoga x Cocktail Déjeunatoire ? 🌿**\n\nA: Le combo parfait pour…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/4faf6c5d-fe42-4356-acca-f8163ea07c98.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🧘🏻‍♀️🍸",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5568,
+    "name": "Tarif Early",
+    "price": 32,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5569,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5571,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 4,
+    "type": "LATE"
+   },
+   {
+    "id": 5572,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 5567,
+    "name": "Tarif Early",
+    "price": 32,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5570,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 8,
+    "remaining": 3,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 506,
+    "name": "JO&JOE Paris Gentilly",
+    "address": "89 Avenue Paul Vaillant-couturier 94250 Gentilly",
+    "postal_code": "94250",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "94",
+  "labels": [
+   {
+    "id": 7,
+    "name": "Pour les Foodies",
+    "emoji": "🍔",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 3,
+  "tickets_female": 5,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-18T03:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-16T09:00:00.000Z"
+ },
+ {
+  "id": 1617,
+  "title": "Run x Brunch ",
+  "subtitle": "Un Run dans le 11ème suivi d'un brunch complet | 5-6km",
+  "description": null,
+  "date": "2026-10-18T00:00:00.000Z",
+  "time_start": "11:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-18T09:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-25T06:38:05.540Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Run Brunch ? 🏃‍♂️🥞**\n\nA: Le combo parfait pour **commencer …",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/797b0e213d07c000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": "25-35",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5416,
+    "name": "Tarif Early",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5418,
+    "name": "Tarif Regular",
+    "price": 38,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 5415,
+    "name": "Tarif Regular",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5419,
+    "name": "Tarif Regular",
+    "price": 38,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 5414,
+    "name": "Tarif Regular",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 5417,
+    "name": "Tarif Early",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 237,
+    "name": "MY HOMIE PARIS",
+    "address": "51 Rue Saint-Maur 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [],
+  "tickets_male": 3,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-18T03:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-16T09:00:00.000Z"
+ },
+ {
+  "id": 1606,
+  "title": "Escalade x Apéro",
+  "subtitle": "Chaussons + 4h de grimpe en illimité !",
+  "description": null,
+  "date": "2026-10-18T00:00:00.000Z",
+  "time_start": "19:00:00",
+  "time_end": "23:00:00",
+  "event_datetime": "2026-10-18T17:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-18T09:35:50.428Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Sunday Climb ? 🧗‍♂️**\n\nA: Le plan parfait pour **terminer to…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/481aa877-96fe-45da-8239-255ee2b4e0c9.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5384,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5386,
+    "name": "Tarif Regular",
+    "price": 18,
+    "gender_category": "male",
+    "quantity": 12,
+    "remaining": 6,
+    "type": null
+   },
+   {
+    "id": 5388,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": "LATE"
+   },
+   {
+    "id": 5389,
+    "name": "Tarif Late",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 5385,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 7,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5387,
+    "name": "Tarif Regular",
+    "price": 18,
+    "gender_category": "female",
+    "quantity": 8,
+    "remaining": 6,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 828,
+    "name": "Le Triangle - Bercy Village",
+    "address": "22 Rue François Truffaut 75012 Paris",
+    "postal_code": "75012",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.832951,
+    "lng": 2.385634
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 8,
+  "tickets_female": 9,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-18T11:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-16T17:00:00.000Z"
+ },
+ {
+  "id": 1483,
+  "title": "Masterclass Make-up",
+  "subtitle": "1h30 de masterclass suivi d'un apéro !",
+  "description": null,
+  "date": "2026-10-19T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-19T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-12T12:53:26.100Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi la **Masterclass “Maquillage du quotidien”**? 💄✨\n\nA: Tu as une tr…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/f5f78c06-288e-4ba1-ab76-b08322a141a5.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "💄",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4661,
+    "name": "Tarif Late",
+    "price": 38,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 4656,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 4660,
+    "name": "Tarif Late",
+    "price": 38,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4657,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 4658,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4659,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 4662,
+    "name": "Tarif Early",
+    "price": 32,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "EARLY"
+   },
+   {
+    "id": 4663,
+    "name": "Tarif Early",
+    "price": 32,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 2,
+    "name": "Hôtel Zoku",
+    "address": "48 Avenue de la Porte de Clichy 75017 Paris",
+    "postal_code": "75017",
+    "indication": null,
+    "max_capacity": 200,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 8,
+    "name": "Food incluse",
+    "emoji": "🥙",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 5,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-19T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-17T17:30:00.000Z"
+ },
+ {
+  "id": 514,
+  "title": "Run x Apéro ",
+  "subtitle": "Un Run suivi d'un apéro festin tout inclus | 5-8km",
+  "description": null,
+  "date": "2026-10-20T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-20T17:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-18T12:45:13.840Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "# **Run x Apéro au Billy Issy 🏃‍♀️🍸✨**\n\nQ: **C’est quoi le Run x Apéro ? 🏃‍♂️…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/b49144bcf063d000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": "25-35",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 5,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 728,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 729,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "EARLY"
+   },
+   {
+    "id": 730,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 731,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 726,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 727,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 220,
+    "name": "Billy",
+    "address": "16 Rue Jeanne d'Arc 92130 Issy-les-Moulineaux",
+    "postal_code": "92130",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "92",
+  "labels": [
+   {
+    "id": 21,
+    "name": "Running",
+    "emoji": "🏃🏽‍♀️‍➡️",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 7,
+    "name": "Pour les Foodies",
+    "emoji": "🍔",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 3,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-20T11:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-18T17:30:00.000Z"
+ },
+ {
+  "id": 1624,
+  "title": "Apéro 38-48",
+  "subtitle": "Notre évènement incontournable pour les 38-48 ans !",
+  "description": null,
+  "date": "2026-10-23T00:00:00.000Z",
+  "time_start": "19:00:00",
+  "time_end": "00:00:00",
+  "event_datetime": "2026-10-23T17:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-17T18:39:43.238Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 3,
+  "external_link": null,
+  "dialog": "A: Envie d’un **apéro élégant et décontracté** pour rencontrer du monde dans une…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/fbc0587b-6813-4ee2-b41a-27756b8400ac.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": true,
+  "allow_volunteer": true,
+  "max_volunteers": 2,
+  "age_range": null,
+  "age_min": 38,
+  "age_max": 48,
+  "age_enforced": false,
+  "parity_threshold": 6,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5445,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 5442,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 6,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5446,
+    "name": "Tarif Late",
+    "price": 25,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 5441,
+    "name": "Tarif Early",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 1,
+    "type": "EARLY"
+   },
+   {
+    "id": 5443,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "male",
+    "quantity": 12,
+    "remaining": 12,
+    "type": null
+   },
+   {
+    "id": 5444,
+    "name": "Tarif Regular",
+    "price": 20,
+    "gender_category": "female",
+    "quantity": 12,
+    "remaining": 8,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 845,
+    "name": "TRIBE Paris Saint Ouen",
+    "address": "33 Boulevard Jean Jaurès 93400 Saint-Ouen-sur-Seine",
+    "postal_code": "93400",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.913077,
+    "lng": 2.335248
+   }
+  ],
+  "zone_department": "93",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 4,
+  "tickets_female": 10,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-23T11:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": true,
+    "quoted_price_cents": 2000
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-21T17:00:00.000Z"
+ },
+ {
+  "id": 1943,
+  "title": "Rando Chien",
+  "subtitle": "8km | Ramène ton toutou pour une promenade qu'il ne sera pas prêt d'oublier !",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "10:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T09:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "**Envie d’une sortie nature avec ton chien** un dimanche ? Viens en **balade chien** avec nous !",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et des chaussures de marche**, un petit **pique-nique**, de **l’eau pour toi et pour ton chien** et sa **laisse** (et surtout ta bonne humeur !)",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "C’est adapté à mon chien ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Oui ! On marche tranquille, 9 kilomètres sur des chemins larges, avec des pauses 🐕 Chien **tenu en laisse sur tout le parcours** : la forêt est classée forêt de protection, on respecte la règle",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera à la **Forêt de Fausses-Reposes**, du côté des **étangs de Corot** ! Départ Paris Saint-Lazare vers 9h45 😊",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼",
+    "group": 6
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/9cff376dd2caf000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🐕",
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 65,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": [
+   {
+    "id": "cafcb21f-1b42-445a-9bf9-2eafd76aa0ed",
+    "label": "Un chien t'accompagne ?",
+    "choices": [
+     {
+      "label": "Avec",
+      "price": null,
+      "quantity": 8
+     },
+     {
+      "label": "Sans",
+      "price": null,
+      "quantity": null
+     }
+    ]
+   }
+  ],
+  "options_required": true,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6597,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 6598,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6600,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 11,
+    "remaining": 11,
+    "type": "LATE"
+   },
+   {
+    "id": 6601,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6599,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6596,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 1,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 418,
+    "name": "Forêt de Fausses-Reposes",
+    "address": "Chaville",
+    "postal_code": "92370",
+    "indication": null,
+    "max_capacity": null,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "92",
+  "labels": [
+   {
+    "id": 4,
+    "name": "En extérieur",
+    "emoji": "🍃",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T03:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T09:00:00.000Z"
+ },
+ {
+  "id": 1475,
+  "title": "Hot Pilates",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "14:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T13:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-22T09:36:18.021Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Hot Pilates ? 🔥🧘‍♀️**\n\nA: Imagine ton cours de Pilates… mai…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/39e7c622-6bb9-47d8-a6e7-bd61a0a5804d.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🔥🥵",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4908,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4910,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4912,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "LATE"
+   },
+   {
+    "id": 4915,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 4909,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4911,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 4913,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 4914,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T07:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T13:00:00.000Z"
+ },
+ {
+  "id": 1476,
+  "title": "Boxe Anglaise",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "14:00:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T13:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-22T09:36:39.431Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi ce cours de boxe anglaise ? 🥊🔥**\n\nA: Un vrai cours de **boxe a…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/0cb4fd95-1592-4c82-a1d4-d551eda8ff88.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🥊✨",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4917,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4918,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4919,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4920,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4921,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4922,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4916,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 2,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T07:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T13:00:00.000Z"
+ },
+ {
+  "id": 1573,
+  "title": "Blood On The Clocktower",
+  "subtitle": "JDR + apéro participatif !",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "14:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T13:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-13T15:01:38.054Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi **Blood on the Clocktower** ? 🩸🕰️😈\n\nA: Si tu aimes Les Loups-Ga…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/9b6a6b70-05aa-49c2-b5fa-c31552ef8edf.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": "18-80",
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "compatibility",
+  "matching_form_id": null,
+  "matching_mode": "compatibility",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5174,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 9,
+    "remaining": 3,
+    "type": "LATE"
+   },
+   {
+    "id": 5175,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 8,
+    "remaining": 8,
+    "type": "LATE"
+   },
+   {
+    "id": 5173,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5171,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5170,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 5172,
+    "name": "Tarif Regular",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5517,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 0,
+    "type": null
+   },
+   {
+    "id": 5518,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 6,
+    "remaining": 2,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 519,
+    "name": "Jardin Atlantique",
+    "address": "1 Place des Cinq Martyrs du Lycée Buffon 75015 Paris",
+    "postal_code": "75015",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.83895,
+    "lng": 2.316959
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 14,
+    "name": "JDR",
+    "emoji": "🤖",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 12,
+  "tickets_female": 5,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T07:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T13:30:00.000Z"
+ },
+ {
+  "id": 1477,
+  "title": "Hot Power (renforcement musculaire)",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "15:15:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T14:15:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-22T09:37:03.589Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Hot Power ? 🔥💪**\n\nA: Un cours de **renforcement musculaire*…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/700120c3-80f7-45bf-9cfd-884977eca9ea.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🔥🏋️",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4924,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": -1,
+    "type": "EARLY"
+   },
+   {
+    "id": 4923,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4927,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4928,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4929,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4925,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4926,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T08:15:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T14:15:00.000Z"
+ },
+ {
+  "id": 1478,
+  "title": "Cardio Boxing",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "15:15:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T14:15:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-22T09:37:30.261Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Cardio Boxing ? 🥊🔥**\n\nA: Un cours où tu vas **boxer, appren…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/e08b2b8b-8bec-4c5c-9b30-fb2fb8c20ab0.jpeg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🥊🥵",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4931,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4930,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 4932,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4934,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4935,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4936,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4933,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T08:15:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T14:15:00.000Z"
+ },
+ {
+  "id": 1479,
+  "title": "Boxe Thaï",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "16:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T15:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-22T09:37:48.280Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Kick Thai ? 🥊**\n\nA: Un entraînement **pieds-poings ultra com…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/e3352b01-aa5a-4531-8b33-d29a8500c2b6.webp",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🥊",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4940,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4937,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 1,
+    "type": "EARLY"
+   },
+   {
+    "id": 4939,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4941,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4938,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 0,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4942,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4943,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T09:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T15:30:00.000Z"
+ },
+ {
+  "id": 1480,
+  "title": "Hot Kettlebell",
+  "subtitle": "1h00 de cours + cookie + boisson chaude",
+  "description": null,
+  "date": "2026-10-25T00:00:00.000Z",
+  "time_start": "16:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-25T15:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 5,
+  "external_link": null,
+  "dialog": "Q: **C’est quoi le Hot Kettlebell ? 🔥🏋️‍♀️**\n\nA: Un cours de **renforcement fo…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/80d9a83c-b5b4-4c47-a329-568cd15a568e.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": null,
+  "age_max": null,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "blocked_72h",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": null,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4950,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4951,
+    "name": "Tarif Late",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4946,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4947,
+    "name": "Tarif Regular",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": null
+   },
+   {
+    "id": 4949,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4948,
+    "name": "Tarif Late",
+    "price": 37,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": "LATE"
+   },
+   {
+    "id": 4945,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "female",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4944,
+    "name": "Tarif Early",
+    "price": 30,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 0,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 753,
+    "name": "Beat 35",
+    "address": "7 Passage Bullourde 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.854867,
+    "lng": 2.377187
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 31,
+    "name": "Sportif",
+    "emoji": "🏋🏽",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 1,
+  "tickets_female": 1,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-25T09:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-23T15:30:00.000Z"
+ },
+ {
+  "id": 1461,
+  "title": "Atelier Linogravure",
+  "subtitle": "Un DIY de QUA-LI-TE animé par TontonKraft ! ",
+  "description": null,
+  "date": "2026-10-30T00:00:00.000Z",
+  "time_start": "19:30:00",
+  "time_end": null,
+  "event_datetime": "2026-10-30T18:30:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-14T10:18:58.788Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi l’**Atelier Linogravure** ? 🎨🖋️\n\nA: Un **atelier créatif** où tu…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/04aa0a8c-e7e6-4fa1-a30f-a4bffcddf726.jpeg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": "🖋️",
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": false,
+  "max_volunteers": null,
+  "age_range": "18-80",
+  "age_min": 18,
+  "age_max": 80,
+  "age_enforced": false,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "disabled",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 4560,
+    "name": "Tarif Regular",
+    "price": 42,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 4561,
+    "name": "Tarif Regular",
+    "price": 42,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": null
+   },
+   {
+    "id": 4559,
+    "name": "Tarif Regular",
+    "price": 40,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 4556,
+    "name": "Tarif Early",
+    "price": 35,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "EARLY"
+   },
+   {
+    "id": 4558,
+    "name": "Tarif Regular",
+    "price": 40,
+    "gender_category": "male",
+    "quantity": 1,
+    "remaining": 1,
+    "type": null
+   },
+   {
+    "id": 4557,
+    "name": "Tarif Early",
+    "price": 35,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 0,
+    "type": "EARLY"
+   },
+   {
+    "id": 4562,
+    "name": "Tarif Late",
+    "price": 45,
+    "gender_category": "male",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   },
+   {
+    "id": 4563,
+    "name": "Tarif Late",
+    "price": 45,
+    "gender_category": "female",
+    "quantity": 2,
+    "remaining": 2,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 7,
+    "name": "Hôtel Moxy",
+    "address": "34 Rue Saint-Sabin 75011 Paris",
+    "postal_code": "75011",
+    "indication": null,
+    "max_capacity": 100,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [
+   {
+    "id": 6,
+    "name": "Boisson incluse",
+    "emoji": "🍷",
+    "color": "#888888",
+    "is_featured": false
+   },
+   {
+    "id": 26,
+    "name": "Atelier créatif",
+    "emoji": "🎨",
+    "color": "#888888",
+    "is_featured": false
+   }
+  ],
+  "tickets_male": 0,
+  "tickets_female": 2,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-10-30T12:30:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-28T18:30:00.000Z"
+ },
+ {
+  "id": 1946,
+  "title": "Rando Chill",
+  "subtitle": "15km | Forêt de Ferrières | Niveau👟👟",
+  "description": null,
+  "date": "2026-11-01T00:00:00.000Z",
+  "time_start": "10:00:00",
+  "time_end": null,
+  "event_datetime": "2026-11-01T09:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": null,
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-rando",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 9,
+  "external_link": null,
+  "dialog": [
+   {
+    "type": "answer",
+    "text": "**Envie de t’aérer en pleine nature** un dimanche ? Viens en **rando chill** avec nous !",
+    "group": 0
+   },
+   {
+    "type": "answer",
+    "text": "T’as juste à prendre **une tenue adaptée et des chaussures de rando**, un petit **pique-nique** et de **l’eau** (et surtout ta bonne humeur !)",
+    "group": 1
+   },
+   {
+    "type": "question",
+    "text": "Et tu veux dire quoi par chill ?",
+    "group": 2
+   },
+   {
+    "type": "answer",
+    "text": "Ça veut dire qu’on marche tranquille, à notre rythme 😌 Environ 15 kilomètres, quasiment plat, avec des pauses pour profiter du paysage 🍂",
+    "group": 3
+   },
+   {
+    "type": "question",
+    "text": "Et c’est où ?",
+    "group": 4
+   },
+   {
+    "type": "answer",
+    "text": "Ce sera à la **Forêt de Ferrières**, Saint-Lazare vers 9h15 😊",
+    "group": 5
+   },
+   {
+    "type": "answer",
+    "text": "Réserve ta place en cliquant sur le **bouton en bas à droite** ! 💪🏼",
+    "group": 6
+   }
+  ],
+  "poster_picture_url": null,
+  "event_background_url": "https://rendez-vous.social/event_pictures/836aabc3ff0e6000.png",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": "(retiré)",
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": null,
+  "age_range": null,
+  "age_min": 18,
+  "age_max": 70,
+  "age_enforced": false,
+  "parity_threshold": null,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "off",
+  "matching_form_id": null,
+  "matching_mode": "off",
+  "options": null,
+  "options_required": false,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 6616,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "EARLY"
+   },
+   {
+    "id": 6618,
+    "name": "Tarif Early",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 3,
+    "remaining": 3,
+    "type": "EARLY"
+   },
+   {
+    "id": 6615,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "male",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6614,
+    "name": "Tarif Regular",
+    "price": 12,
+    "gender_category": "female",
+    "quantity": 4,
+    "remaining": 4,
+    "type": null
+   },
+   {
+    "id": 6619,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "female",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   },
+   {
+    "id": 6617,
+    "name": "Tarif Late",
+    "price": 15,
+    "gender_category": "male",
+    "quantity": 13,
+    "remaining": 13,
+    "type": "LATE"
+   }
+  ],
+  "places": [
+   {
+    "id": 949,
+    "name": "Forêt de Ferrières",
+    "address": "Croissy-Beaubourg",
+    "postal_code": "77183",
+    "indication": null,
+    "max_capacity": null,
+    "lat": 48.821778,
+    "lng": 2.65357
+   }
+  ],
+  "zone_department": "77",
+  "labels": [],
+  "tickets_male": 0,
+  "tickets_female": 0,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-11-01T03:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-10-30T09:00:00.000Z"
+ },
+ {
+  "id": 1643,
+  "title": "Pitch Ton Pote ! Edition 27-37 ans !",
+  "subtitle": "Gratuit pour les pitcheurs et pitchés !",
+  "description": null,
+  "date": "2026-11-29T00:00:00.000Z",
+  "time_start": "17:00:00",
+  "time_end": "20:00:00",
+  "event_datetime": "2026-11-29T16:00:00.000Z",
+  "sale_opening_date": null,
+  "postponed_at": "2026-09-17T18:38:54.250Z",
+  "hidden_at": null,
+  "timezone": "Europe/Paris",
+  "city_id": "paris-75",
+  "status": "sale",
+  "type": "simple",
+  "category_id": 4,
+  "external_link": null,
+  "dialog": "Q: C’est quoi l’évent **“Pitch ton pote”** ? 😏🎤\nA: Le **concept le plus drôle*…",
+  "poster_picture_url": null,
+  "event_background_url": "https://rdv-media-prod.s3.eu-west-3.amazonaws.com/media-library/660521e7-2308-49f6-a2b4-545b1b309c25.jpg",
+  "event_color": null,
+  "question_color": "#FFE9EF",
+  "answer_color": "#FFFFFF",
+  "button_color": "#9F052E",
+  "emoji": null,
+  "ambassador_infos": null,
+  "ambassador_allow_respo": false,
+  "allow_volunteer": true,
+  "max_volunteers": 6,
+  "age_range": "20-50",
+  "age_min": 27,
+  "age_max": 37,
+  "age_enforced": true,
+  "parity_threshold": 10,
+  "waitlist_enabled": true,
+  "challenges_enabled": false,
+  "animation": "compatibility",
+  "matching_form_id": null,
+  "matching_mode": "compatibility",
+  "options": [
+   {
+    "id": "53328bce-7d43-43bf-bcd3-6247b4e4b4b6",
+    "label": "Je viens en tant que",
+    "choices": [
+     {
+      "label": "Pitché (place offerte)",
+      "price": -8,
+      "quantity": null
+     },
+     {
+      "label": "Pitcheur (place offerte)",
+      "price": -8,
+      "quantity": null
+     },
+     {
+      "label": "Spectateur",
+      "price": null,
+      "quantity": null
+     }
+    ]
+   }
+  ],
+  "options_required": true,
+  "cancellation_policy": "normal",
+  "secret_place": false,
+  "secret_place_hint": null,
+  "secret_place_revealed_at": null,
+  "selection_enabled": false,
+  "selection_payment_mode": null,
+  "tva": 20,
+  "country_code": "FR",
+  "currency": "EUR",
+  "locale": "fr-FR",
+  "rates": [
+   {
+    "id": 5565,
+    "name": "Tarif Late",
+    "price": 10,
+    "gender_category": "male",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5566,
+    "name": "Tarif Late",
+    "price": 10,
+    "gender_category": "female",
+    "quantity": 5,
+    "remaining": 5,
+    "type": "LATE"
+   },
+   {
+    "id": 5563,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "male",
+    "quantity": 15,
+    "remaining": 8,
+    "type": "EARLY"
+   },
+   {
+    "id": 5564,
+    "name": "Tarif Early",
+    "price": 8,
+    "gender_category": "female",
+    "quantity": 15,
+    "remaining": 4,
+    "type": "EARLY"
+   }
+  ],
+  "places": [
+   {
+    "id": 3,
+    "name": "Jo&Joe Nation",
+    "address": "61 Rue de Buzenval 75020 Paris",
+    "postal_code": "75020",
+    "indication": null,
+    "max_capacity": 170,
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "zone_department": "75",
+  "labels": [],
+  "tickets_male": 7,
+  "tickets_female": 11,
+  "waitlist": {
+   "enabled": true,
+   "open": true,
+   "deadline_at": "2026-11-29T10:00:00.000+00:00",
+   "male": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "female": {
+    "count": 0,
+    "purchase_blocked": false,
+    "joinable": false,
+    "quoted_price_cents": null
+   },
+   "user_entry": null,
+   "user_entries": []
+  },
+  "secret_place_revealed": true,
+  "secret_place_reveal_at": "2026-11-27T16:00:00.000Z"
+ }
+]

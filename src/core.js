@@ -612,9 +612,43 @@
     return isNaN(ms) ? null : ms;
   }
 
+  const HHMM = /^(\d{1,2}):(\d{2})/;
+
+  /**
+   * Horaires au format de l'API rendez-vous.social :
+   *   event_datetime (instant UTC du début), date (jour local à minuit « Z »),
+   *   time_start / time_end (« 19:30:00 », heure locale, time_end souvent null), timezone.
+   * Le champ `date` seul n'est pas une heure de début : il ne sert qu'à dater time_start/time_end.
+   */
+  function rvsTimes(o) {
+    const day = typeof o.date === 'string' && /^(\d{4})-(\d{2})-(\d{2})/.exec(o.date);
+    const hasRvs = o.event_datetime != null || (day && (typeof o.time_start === 'string' || typeof o.time_end === 'string'));
+    if (!hasRvs) return null;
+    const tz = typeof o.timezone === 'string' ? o.timezone : DEFAULT_TZ;
+    const at = t => {
+      const m = day && typeof t === 'string' && HHMM.exec(t);
+      return m ? zonedTimeToUtc(+day[1], +day[2], +day[3], +m[1], +m[2], 0, tz) : null;
+    };
+    let start = isoDate(o.event_datetime);
+    if (start == null) start = at(o.time_start);
+    let end = at(o.time_end);
+    if (start != null && end != null) {
+      while (end <= start) end += DAY; // se termine après minuit
+      if (end - start > DAY) end = null;
+    }
+    return { start, end };
+  }
+
+  /** Chemin d'une activité sur le site (même règle que l'application : /event/<id>-<titre-slugifié>). */
+  function eventPath(id, title) {
+    const slug = String(title || 'event').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
+    return `/event/${id}-${slug || 'event'}`;
+  }
+
   /**
    * Repère les évènements dans une réponse JSON (liste d'activités ou détail) :
-   * [{ id, title, slug, start, end, gender }].
+   * [{ id, title, slug, start, end, gender, status, location }].
    */
   function extractEventsFromJson(obj) {
     const out = new Map();
@@ -626,9 +660,13 @@
       const id = num(o.id);
       if (id != null) {
         let start = null, end = null;
-        for (const k of Object.keys(o)) {
-          if (start == null && START_KEYS.test(k)) start = isoDate(o[k]);
-          else if (end == null && END_KEYS.test(k)) end = isoDate(o[k]);
+        const rvs = rvsTimes(o);
+        if (rvs) ({ start, end } = rvs);
+        else {
+          for (const k of Object.keys(o)) {
+            if (start == null && START_KEYS.test(k)) start = isoDate(o[k]);
+            else if (end == null && END_KEYS.test(k)) end = isoDate(o[k]);
+          }
         }
         const gender = genderFromEventObject(o);
         const title = typeof o.name === 'string' ? o.name : typeof o.title === 'string' ? o.title : null;
@@ -641,12 +679,20 @@
             start: start != null ? start : prev.start != null ? prev.start : null,
             end: end != null ? end : prev.end != null ? prev.end : null,
             gender: gender || prev.gender || null,
+            status: typeof o.status === 'string' ? o.status : prev.status || null,
+            location: placeOf(o) || prev.location || null,
           });
         }
       }
       for (const k of Object.keys(o)) if (o[k] && typeof o[k] === 'object' && k !== 'rates') walk(o[k], depth + 1);
     })(obj, 0);
     return Array.from(out.values());
+  }
+
+  function placeOf(o) {
+    const p = Array.isArray(o.places) ? o.places.find(x => x && typeof x === 'object' && x.name) : null;
+    if (!p) return typeof o.location === 'string' ? o.location : null;
+    return p.postal_code ? `${p.name} (${p.postal_code})` : p.name;
   }
 
   /**
@@ -739,6 +785,7 @@
     parseFrenchDate, parseTimes,
     checkConflicts, buildIcs,
     extractGenderFromText, extractGenderFromJson, extractEventsFromJson, genderFromEventObject,
+    rvsTimes, eventPath,
     normText,
   };
 });

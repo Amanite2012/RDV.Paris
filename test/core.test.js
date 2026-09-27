@@ -186,3 +186,47 @@ test('extractEventsFromJson : liste d’activités', () => {
   assert.equal(oeno.gender.women, 1);
   assert.equal(evs.find(e => e.id === 1900).gender.pctMen, 50);
 });
+
+// Réponses réelles de l'API (test/fixtures, données personnelles retirées) :
+//   GET /events?city_id=paris  -> tableau d'activités
+//   GET /event/1889            -> détail d'une activité
+const LIST = require('./fixtures/events-paris.json');
+const DETAIL = require('./fixtures/event-1889.json');
+
+test('API réelle : horaires = event_datetime (pas le champ date à minuit)', () => {
+  const evs = C.extractEventsFromJson(LIST);
+  assert.equal(evs.length, LIST.length);
+  const oeno = evs.find(e => e.id === 1889);
+  assert.equal(oeno.title, 'Soirée oenologie');
+  assert.equal(oeno.start, paris(2026, 10, 6, 19, 30));
+  assert.equal(oeno.end, paris(2026, 10, 6, 21, 0));
+  assert.equal(oeno.status, 'sale');
+  assert.match(oeno.location, /\S/);
+  // time_end null -> fin inconnue
+  const walk = evs.find(e => e.id === 1485);
+  assert.equal(walk.start, paris(2026, 9, 27, 11, 0));
+  assert.equal(walk.end, null);
+  for (const e of evs) assert.equal(new Date(e.start).getUTCHours() === 0 && new Date(e.start).getUTCMinutes() === 0, false, e.title);
+});
+
+test('API réelle : répartition H/F depuis la liste et le détail', () => {
+  const fromList = C.extractEventsFromJson(LIST).find(e => e.id === 1889).gender;
+  const fromDetail = C.extractEventsFromJson(DETAIL)[0].gender;
+  for (const g of [fromList, fromDetail]) {
+    assert.deepEqual([g.men, g.women, g.menCapacity, g.womenCapacity, g.menRemaining, g.womenRemaining], [0, 1, 8, 8, 8, 7]);
+  }
+  assert.ok(C.extractEventsFromJson(LIST).every(e => e.gender), 'chaque activité de la liste a ses rates');
+});
+
+test('rvsTimes : fin après minuit, date seule sans event_datetime', () => {
+  let r = C.rvsTimes({ date: '2026-10-10T00:00:00.000Z', time_start: '22:00:00', time_end: '02:00:00', timezone: 'Europe/Paris' });
+  assert.equal(r.start, paris(2026, 10, 10, 22));
+  assert.equal(r.end, paris(2026, 10, 11, 2));
+  assert.equal(C.rvsTimes({ date: '2026-10-10' }), null);
+});
+
+test('eventPath : même slug que le site', () => {
+  assert.equal(C.eventPath(1889, 'Soirée oenologie'), '/event/1889-soiree-oenologie');
+  assert.equal(C.eventPath(1584, 'Balade "Montmartre au féminin"'), '/event/1584-balade-montmartre-au-feminin');
+  assert.equal(C.eventPath(1, '!!!'), '/event/1-event');
+});
